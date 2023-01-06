@@ -8,41 +8,65 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hanifa-elahi-98570a197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanifa-elahi-98570a197/" height="30" width="40" /></a>
-<a href="https://kaggle.com/hanifaelahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hanifaelahi" height="30" width="40" /></a>
-<a href="https://fb.com/hanifa.elahi.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanifa.elahi.18/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hanifa_elahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hanifa_elahi" height="30" width="40" /></a>
+
+<a href="https://fb.com/hanifa.elahi.18/" /></a>
 </p>
+
+  <p>
+      <a href="https://linkedin.com/in/hanifa-elahi-98570a197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://www.hackerrank.com/hanifa_elahi"><img alt="kaggle" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+      <a href="https://kaggle.com/hanifaelahi"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-4A154B?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+      <a href="https://fb.com/hanifa.elahi.18/"><img alt="kaggle" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+      <a href="hanifa.elahi@gmail.com"><img alt="kaggle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
+  
 
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
   
-### 🔥 Data Visualization Tools
-  
+### 🔥 Data Visualization Tools & Libraries
+
   <p>
       <a href="#"><img alt="Microsoft Power BI" src="https://img.shields.io/badge/power-bi.svg?logo=power-bi&logoColor=white"></a>
-      <a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/looker-studio-00000.svg?logo=looker&logoColor=white"></a>
-      <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/plotly-11111.svg?logo=plotly&logoColor=white"></a>
+      <a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/looker-7D00FF.svg?logo=looker&logoColor=white"></a>
       <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
+      <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-298D46?logo=Matplotlib&logoColor=white"></a>
+      <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-7D4698?logo=seaborn&logoColor=white"></a>
+      <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/plotly-E6007A.svg?logo=plotly&logoColor=white"></a>
+  </p>
+  
+  
+ ### 🔥 Machine Learning & Artificial Intelligence
 
+  <p>
+      <a href="#"><img alt="scikit learn" src="https://img.shields.io/badge/scikitlearn-2962FF?logo=scikitlearn&logoColor=white"></a>
+      <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-B71C1C?logo=Keras&logoColor=white"></a>
   </p>
   
 ### 🔥 Computer Vision
   
   <p>
-      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-BB3456?logo=DeepFace&logoColor=white"></a>
+      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-543DE0?logo=DeepFace&logoColor=white"></a>
       <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
-      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-CC2927?logo=Mediapipe&logoColor=white"></a>
+      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-161637?logo=Mediapipe&logoColor=white"></a>
   </p>
   
 ### 🔥 Natural Language Processing
   
   <p>
-      <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-BB3456?logo=NLTK&logoColor=white"></a>
+      <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0000CC?logo=NLTK&logoColor=white"></a>
       <a href="#"><img alt="Gensim" src="https://img.shields.io/badge/Gensim-BB8907?logo=Gensim&logoColor=white"></a>
-      <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-00000?logo=spaCy&logoColor=white"></a>
-    <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-CC2927?logo=TextBlob&logoColor=white"></a>
+      <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-470137?logo=spaCy&logoColor=white"></a>
+    <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-FF61F6?logo=TextBlob&logoColor=white"></a>
   </p>
+  
+  ### 🔥 Web Scrapping
+  
+  <p>
+      <a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-2962FF?logo=requests&logoColor=white"></a>
+      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-FD3A5C?logo=selenium&logoColor=white"></a>
+      <a href="#"><img alt="Beautiful Soup" src="https://img.shields.io/badge/BeautifulSoup-F4B728?logo=Beautiful%20Soup&logoColor=white"></a>
+  </p>
+
 
 ### 🔥 Programming & Markup Languages
   
@@ -75,28 +99,28 @@
 ### 🔥 Databases & Cloud Hosting
   
   <p>
-       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
   </p>
   
 ### 🔥 Software & Tools
   
   <p>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/spyder-ide?logo=spyder-ide&logoColor=white"></a>
+      <a href="#"><img alt="spyder" src="https://img.shields.io/badge/spyder-9013FE?logo=spyder-ide&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/sublime-text?logo=sublime-text&logoColor=white"></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime-B71C1C?logo=sublime-text&logoColor=white"></a>
   </p>
   
 </details>
