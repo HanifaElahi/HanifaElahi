@@ -17,9 +17,36 @@
 <a href="https://www.hackerrank.com/hanifa_elahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hanifa_elahi" height="30" width="40" /></a>
 </p>
 
-<details> <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<details> <summary><h2>🛠️ Favorite Tools</h2></summary>
+  
+### 🔥 Data Visualization Tools
+  
+  <p>
+      <a href="#"><img alt="Microsoft Power BI" src="https://img.shields.io/badge/power-bi.svg?logo=power-bi&logoColor=white"></a>
+      <a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/looker-studio-00000.svg?logo=looker&logoColor=white"></a>
+      <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/plotly-11111.svg?logo=plotly&logoColor=white"></a>
+      <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
 
-### 👨‍💻 Programming and Markup Languages
+  </p>
+  
+### 🔥 Computer Vision
+  
+  <p>
+      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-BB3456?logo=DeepFace&logoColor=white"></a>
+      <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-CC2927?logo=Mediapipe&logoColor=white"></a>
+  </p>
+  
+### 🔥 Natural Language Processing
+  
+  <p>
+      <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-BB3456?logo=NLTK&logoColor=white"></a>
+      <a href="#"><img alt="Gensim" src="https://img.shields.io/badge/Gensim-BB8907?logo=Gensim&logoColor=white"></a>
+      <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-00000?logo=spaCy&logoColor=white"></a>
+    <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-CC2927?logo=TextBlob&logoColor=white"></a>
+  </p>
+
+### 🔥 Programming & Markup Languages
   
   <p>
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -33,10 +60,9 @@
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="#l"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
   
-### 🧰 Frameworks and Libraries
+### 🔥 Frameworks & Libraries
  <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -48,20 +74,21 @@
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
   
-### 🗄️ Databases and Cloud Hosting
+### 🔥 Databases & Cloud Hosting
   
   <p>
        <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
   
-### 💻 Software and Tools
+### 🔥 Software and Tools
   
   <p>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -72,7 +99,6 @@
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/sublime-text?logo=sublime-text&logoColor=white"></a>
-    
   </p>
   
 </details>
