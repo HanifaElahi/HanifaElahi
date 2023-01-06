@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hanifa Elahi</h1>
 
-### 🧐 More About Me:
+## 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently learning Business Intelligence Tools
-- 💬 &nbsp; Ask me about **Data Analysis, ML, NLP, Computer Vision**
+- 💬 &nbsp; Ask me about **Data Analytics, Machine Learning, Natural Language Processing, Computer Vision**
 - 📝 &nbsp; Checkout my [resume]
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 <a href="https://fb.com/hanifa.elahi.18/" /></a>
 </p>
