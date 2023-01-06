@@ -4,7 +4,6 @@
 
 - 🌱 &nbsp; I’m currently learning Business Intelligence Tools
 - 💬 &nbsp; Ask me about **Data Analysis, ML, NLP, Computer Vision**
-- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/hanifa-elahi-98570a197/)
 - 📝 &nbsp; Checkout my [resume]
 
 
