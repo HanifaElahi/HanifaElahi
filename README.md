@@ -3,7 +3,6 @@
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently learning Business Intelligence Tools
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/HanifaElahi?tab=repositories)
 - 💬 &nbsp; Ask me about **Data Analysis, ML, NLP, Computer Vision**
 - 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/hanifa-elahi-98570a197/)
 - 📝 &nbsp; Checkout my [resume]
