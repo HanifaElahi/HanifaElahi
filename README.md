@@ -7,7 +7,7 @@
 - 📝 &nbsp; Checkout my [resume]
 
 
-## Connect with me:
+<details> <summary><h2>Connect with me</h2></summary>
 
 <p>
       <a href="https://linkedin.com/in/hanifa-elahi-98570a197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -17,6 +17,7 @@
       <a href="https://replit.com/@HanifaElahi?path="><img alt="kaggle" src="https://img.shields.io/badge/Replit-%23F7A41D?style=for-the-badge&logo=Replit&logoColor=white"></a>
  
 </p>
+      </details>
   
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
       
