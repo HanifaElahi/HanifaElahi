@@ -9,19 +9,15 @@
 
 ## Connect with me:
 
-<a href="https://fb.com/hanifa.elahi.18/" /></a>
-</p>
-
-  <p>
+<p>
       <a href="https://linkedin.com/in/hanifa-elahi-98570a197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="https://www.hackerrank.com/hanifa_elahi"><img alt="kaggle" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
       <a href="https://kaggle.com/hanifaelahi"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-4A154B?style=for-the-badge&logo=kaggle&logoColor=white"></a>
       <a href="https://fb.com/hanifa.elahi.18/"><img alt="kaggle" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-      <a href="hanifa.elahi@gmail.com"><img alt="kaggle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="https://replit.com/@HanifaElahi?path="><img alt="kaggle" src="https://img.shields.io/badge/Replit-%23F7A41D?style=for-the-badge&logo=Replit&logoColor=white"></a>
-  </p>
+      <a href="https://replit.com/@HanifaElahi?path="><img alt="kaggle" src="https://img.shields.io/badge/Replit-%23F7A41D?style=for-the-badge&logo=Replit&logoColor=white"></a>
+ 
+</p>
   
-
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
   
 ### 🔥 Data Visualization Tools & Libraries
