@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hanifa Elahi</h1>
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=C007F7&multiline=true&width=435&lines=Data+Science+Enthusiast+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C007F7&width=435&lines=Data+Science+Enthusiast+;Always+learning+new+things;Data+Analytics;Machine+Learning;Natural+Language+Processing;Computer+Vision" alt="Typing SVG" /></a>
 </p>
 
 
