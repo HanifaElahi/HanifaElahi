@@ -20,11 +20,19 @@
   
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
       
- ### 🔥 Machine Learning & Artificial Intelligence
+ ### 🔥 ML & AI
 
   <p>
       <a href="#"><img alt="scikit learn" src="https://img.shields.io/badge/scikitlearn-2962FF?logo=scikitlearn&logoColor=white"></a>
       <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-B71C1C?logo=Keras&logoColor=white"></a>
+  </p>
+     
+ ### 🔥 Computer Vision
+  
+  <p>
+      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-543DE0?logo=DeepFace&logoColor=white"></a>
+      <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-161637?logo=Mediapipe&logoColor=white"></a>
   </p>
       
   ### 🔥 Web Scrapping
@@ -33,14 +41,6 @@
       <a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-2962FF?logo=requests&logoColor=white"></a>
       <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-FD3A5C?logo=selenium&logoColor=white"></a>
       <a href="#"><img alt="Beautiful Soup" src="https://img.shields.io/badge/BeautifulSoup-F4B728?logo=Beautiful%20Soup&logoColor=white"></a>
-  </p>
-  
- ### 🔥 Computer Vision
-  
-  <p>
-      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-543DE0?logo=DeepFace&logoColor=white"></a>
-      <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
-      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-161637?logo=Mediapipe&logoColor=white"></a>
   </p>
       
   
@@ -103,7 +103,6 @@
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
   </p>
   
 ### 🔥 Software & Tools
