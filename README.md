@@ -19,7 +19,40 @@
 </p>
   
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
+      
+ ### 🔥 Machine Learning & Artificial Intelligence
+
+  <p>
+      <a href="#"><img alt="scikit learn" src="https://img.shields.io/badge/scikitlearn-2962FF?logo=scikitlearn&logoColor=white"></a>
+      <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-B71C1C?logo=Keras&logoColor=white"></a>
+  </p>
+      
+  ### 🔥 Web Scrapping
   
+  <p>
+      <a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-2962FF?logo=requests&logoColor=white"></a>
+      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-FD3A5C?logo=selenium&logoColor=white"></a>
+      <a href="#"><img alt="Beautiful Soup" src="https://img.shields.io/badge/BeautifulSoup-F4B728?logo=Beautiful%20Soup&logoColor=white"></a>
+  </p>
+  
+ ### 🔥 Computer Vision
+  
+  <p>
+      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-543DE0?logo=DeepFace&logoColor=white"></a>
+      <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-161637?logo=Mediapipe&logoColor=white"></a>
+  </p>
+      
+  
+### 🔥 Natural Language Processing
+  
+  <p>
+      <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0000CC?logo=NLTK&logoColor=white"></a>
+      <a href="#"><img alt="Gensim" src="https://img.shields.io/badge/Gensim-BB8907?logo=Gensim&logoColor=white"></a>
+      <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-470137?logo=spaCy&logoColor=white"></a>
+      <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-FF61F6?logo=TextBlob&logoColor=white"></a>
+  </p>
+      
 ### 🔥 Data Visualization Tools & Libraries
 
   <p>
@@ -30,41 +63,19 @@
       <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-7D4698?logo=seaborn&logoColor=white"></a>
       <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/plotly-E6007A.svg?logo=plotly&logoColor=white"></a>
   </p>
-  
-  
- ### 🔥 Machine Learning & Artificial Intelligence
 
-  <p>
-      <a href="#"><img alt="scikit learn" src="https://img.shields.io/badge/scikitlearn-2962FF?logo=scikitlearn&logoColor=white"></a>
-      <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-B71C1C?logo=Keras&logoColor=white"></a>
+ ### 🔥 Frameworks & Libraries
+ <p>
+      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
   </p>
-  
-### 🔥 Computer Vision
-  
-  <p>
-      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-543DE0?logo=DeepFace&logoColor=white"></a>
-      <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
-      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-161637?logo=Mediapipe&logoColor=white"></a>
-  </p>
-  
-### 🔥 Natural Language Processing
-  
-  <p>
-      <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0000CC?logo=NLTK&logoColor=white"></a>
-      <a href="#"><img alt="Gensim" src="https://img.shields.io/badge/Gensim-BB8907?logo=Gensim&logoColor=white"></a>
-      <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-470137?logo=spaCy&logoColor=white"></a>
-    <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-FF61F6?logo=TextBlob&logoColor=white"></a>
-  </p>
-  
-  ### 🔥 Web Scrapping
-  
-  <p>
-      <a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-2962FF?logo=requests&logoColor=white"></a>
-      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-FD3A5C?logo=selenium&logoColor=white"></a>
-      <a href="#"><img alt="Beautiful Soup" src="https://img.shields.io/badge/BeautifulSoup-F4B728?logo=Beautiful%20Soup&logoColor=white"></a>
-  </p>
-
-
+      
 ### 🔥 Programming & Markup Languages
   
   <p>
@@ -80,19 +91,7 @@
       <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
       <a href="#l"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
-  
-### 🔥 Frameworks & Libraries
- <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-  </p>
-  
+    
 ### 🔥 Databases & Cloud Hosting
   
   <p>
