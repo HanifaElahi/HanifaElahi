@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hanifa Elahi</h1>
 
-## 🧐 More About Me:
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=C007F7&multiline=true&width=435&lines=Data+Science+Enthusiast+" alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
+      <a href="https://linkedin.com/in/hanifa-elahi-98570a197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://www.hackerrank.com/hanifa_elahi"><img alt="kaggle" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+      <a href="https://kaggle.com/hanifaelahi"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-4A154B?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+      <a href="https://fb.com/hanifa.elahi.18/"><img alt="kaggle" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+      <a href="https://replit.com/@HanifaElahi?path="><img alt="kaggle" src="https://img.shields.io/badge/Replit-%23F7A41D?style=for-the-badge&logo=Replit&logoColor=white"></a>
+</p>
+
+<br/>
+
+## 🧐 About Me:
 
 - 🌱 &nbsp; I’m currently learning Business Intelligence Tools
 - 💬 &nbsp; Ask me about **Data Analytics, Machine Learning, Natural Language Processing, Computer Vision**
 - 📝 &nbsp; Checkout my [resume]
 
 
-<details> <summary><h2>Connect with me</h2></summary>
-
-<p>
-      <a href="https://linkedin.com/in/hanifa-elahi-98570a197/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://www.hackerrank.com/hanifa_elahi"><img alt="kaggle" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-      <a href="https://kaggle.com/hanifaelahi"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-4A154B?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-      <a href="https://fb.com/hanifa.elahi.18/"><img alt="kaggle" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-      <a href="https://replit.com/@HanifaElahi?path="><img alt="kaggle" src="https://img.shields.io/badge/Replit-%23F7A41D?style=for-the-badge&logo=Replit&logoColor=white"></a>
- 
-</p>
-      </details>
-  
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
       
  ### 🔥 ML & AI
