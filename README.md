@@ -20,7 +20,7 @@
 
 - 🌱 &nbsp; I’m currently learning Business Intelligence Tools
 - 💬 &nbsp; Ask me about **Data Analytics, Machine Learning, Natural Language Processing, Computer Vision**
-- 📝 &nbsp; Checkout my [resume]
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/15CZujI8DKAi0Yhu_taP-Je4MMEnI-LfA/view?usp=sharing)
 
 
 <details> <summary><h2>🛠️ Favorite Tools</h2></summary>
