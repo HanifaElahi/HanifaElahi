@@ -62,6 +62,7 @@
 
   <p>
       <a href="#"><img alt="Microsoft Power BI" src="https://img.shields.io/badge/power-bi.svg?logo=power-bi&logoColor=white"></a>
+      <a href="#"><img alt="Apache Superset" src="https://img.shields.io/badge/Apache Superset-AA007A.svg?logo=Superset&logoColor=white"></a>
       <a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/looker-7D00FF.svg?logo=looker&logoColor=white"></a>
       <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
       <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-298D46?logo=Matplotlib&logoColor=white"></a>
@@ -100,7 +101,8 @@
 ### 🔥 Databases & Cloud Hosting
   
   <p>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a> 
+      <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF007A.svg?logo=databricks&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
@@ -115,6 +117,7 @@
   <p>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="spyder" src="https://img.shields.io/badge/spyder-9013FE?logo=spyder-ide&logoColor=white"></a>
+      <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-FFF000.svg?logo=dbeaver&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
