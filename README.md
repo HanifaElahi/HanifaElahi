@@ -103,6 +103,7 @@
   <p>
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a> 
       <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF007A.svg?logo=databricks&logoColor=white"></a>
+      <a href="#"><img alt="Trino" src="https://img.shields.io/badge/trino-000080.svg?logo=&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
