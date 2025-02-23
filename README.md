@@ -138,8 +138,8 @@
 5. [Data Science Foundations](https://olympus.mygreatlearning.com/courses/13680/certificate)
 6. [Neo4j Overview](https://github.com/HanifaElahi/Certificates/blob/main/neo4j_Certificate_1.pdf)
 7. [Large Language Models (LLMs) Concepts certificate](https://github.com/HanifaElahi/Certificates/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts%20certificate.pdf)
-8. [Building a Go-To-Market Strategy Certificate]()
-9. [Cleaning Data with Generative AI]
+8. [Building a Go-To-Market Strategy Certificate](https://github.com/HanifaElahi/Certificates/blob/main/Building%20a%20Go-To-Market%20Strategy.pdf)
+9. [Cleaning Data with Generative AI](https://github.com/HanifaElahi/Certificates/blob/main/Cleaning%20Data%20with%20Generative%20AI.pdf)
   
 </details>
 
