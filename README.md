@@ -136,6 +136,8 @@
 3. [Marketing Analytics Dashboard in Data Studio](https://coursera.org/share/c1e4635f269bc98d47c382a570c74871)
 4. [Data Science with Python](https://github.com/HanifaElahi/Certificates/blob/main/Data%20Science%20with%20Python.pdf)
 5. [Data Science Foundations](https://olympus.mygreatlearning.com/courses/13680/certificate)
+6. [Neo4j Overview](https://github.com/HanifaElahi/Certificates/blob/main/neo4j_Certificate_1.pdf)
+7. [Large Language Models (LLMs) Concepts certificate](https://github.com/HanifaElahi/Certificates/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts%20certificate.pdf)
   
 </details>
 
