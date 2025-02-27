@@ -129,21 +129,32 @@
   
 </details>
 
-<details> <summary><h2>🏷️ Certifications</h2></summary>
-  
-1. [AI for Everyone](https://coursera.org/share/14973b60d5475ceb15b3e94cf742f73f)
-2. [Working with Big Query](https://coursera.org/share/c1e4635f269bc98d47c382a570c74871)
-3. [Marketing Analytics Dashboard in Data Studio](https://coursera.org/share/c1e4635f269bc98d47c382a570c74871)
-4. [Data Science with Python](https://github.com/HanifaElahi/Certificates/blob/main/Data%20Science%20with%20Python.pdf)
-5. [Data Science Foundations](https://olympus.mygreatlearning.com/courses/13680/certificate)
-6. [Neo4j Overview](https://github.com/HanifaElahi/Certificates/blob/main/neo4j_Certificate_1.pdf)
-7. [Large Language Models (LLMs) Concepts certificate](https://github.com/HanifaElahi/Certificates/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts%20certificate.pdf)
-8. [Building a Go-To-Market Strategy Certificate](https://github.com/HanifaElahi/Certificates/blob/main/Building%20a%20Go-To-Market%20Strategy.pdf)
-9. [Cleaning Data with Generative AI](https://github.com/HanifaElahi/Certificates/blob/main/Cleaning%20Data%20with%20Generative%20AI.pdf)
-  
-</details>
+# 🏆 Certifications  
 
-## 📊 GitHub Stats and Activity  
+### 📜 Professional Certifications  
+- [AI for Everyone](https://coursera.org/share/14973b60d5475ceb15b3e94cf742f73f)  
+- [Working with BigQuery](https://coursera.org/share/c1e4635f269bc98d47c382a570c74871)  
+- [Marketing Analytics Dashboard in Data Studio](https://www.coursera.org/account/accomplishments/verify/GGRYKD2V3XB3)  
+
+### 📊 Data Science & AI  
+- [Data Science with Python](https://github.com/HanifaElahi/Certificates/blob/main/Data%20Science%20with%20Python.pdf)  
+- [Data Science Foundations](https://olympus.mygreatlearning.com/courses/13680/certificate)  
+- [Cleaning Data with Generative AI](https://github.com/HanifaElahi/Certificates/blob/main/Cleaning%20Data%20with%20Generative%20AI.pdf)  
+- [Large Language Models (LLMs) Concepts](https://github.com/HanifaElahi/Certificates/blob/main/Large%20Language%20Models%20(LLMs)%20Concepts%20certificate.pdf)  
+
+### 🛠️ Databases & Strategy  
+- [Neo4j Overview](https://github.com/HanifaElahi/Certificates/blob/main/neo4j_Certificate_1.pdf)  
+- [Building a Go-To-Market Strategy](https://github.com/HanifaElahi/Certificates/blob/main/Building%20a%20Go-To-Market%20Strategy.pdf)  
+
+### 💻 Programming Languages  
+- [SQL (Basic)](https://www.hackerrank.com/certificates/6cbcdd3b0549)  
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/f9ffaeb5dc17)
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/1fd42deaac89)
+- [Python (Basic)](https://www.hackerrank.com/certificates/d6679de301f0)  
+
+---
+
+# 📊 GitHub Stats and Activity  
 
 ### 💻 GitHub Profile Stats  
 
@@ -158,4 +169,3 @@
 ### 📌 GitHub Activity Graph  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanifaelahi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&width=100%)  
-
