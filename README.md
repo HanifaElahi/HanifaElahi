@@ -143,17 +143,19 @@
   
 </details>
 
-<details> <summary><h2>📊 Github Stats and Activity</h2></summary>
-  
-### 🔥 Streak Stats
-  
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=hanifaelahi&theme=monokai-metallian&hide_border=true"/>
-  
-### 💻 GitHub Profile Stats
-  
-<img alt="Hanifa Elahi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hanifaelahi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+## 📊 GitHub Stats and Activity  
 
-<img alt="Hanifa Elahi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifaelahi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-  
-<img alt="Hanifa Elahi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hanifaelahi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</details> 
+### 💻 GitHub Profile Stats  
+
+![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=hanifaelahi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&width=100%)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifaelahi&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&width=100%)  
+
+### 🚀 GitHub Streak  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanifaelahi&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)  
+
+### 📌 GitHub Activity Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanifaelahi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&width=100%)  
+
