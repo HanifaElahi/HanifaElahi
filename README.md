@@ -23,111 +23,122 @@
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Z4oYJ1TcU3u6SA_lfAzfhPhhUOQqAgJH/view?usp=sharing)
 
 
-<details> <summary><h2>🛠️ Favorite Tools</h2></summary>
-      
- ### 🔥 ML & AI
+# 🛠️ Favorite Tools  
 
-  <p>
-      <a href="#"><img alt="scikit learn" src="https://img.shields.io/badge/scikitlearn-2962FF?logo=scikitlearn&logoColor=white"></a>
-      <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-B71C1C?logo=Keras&logoColor=white"></a>
-  </p>
-     
- ### 🔥 Computer Vision
+### 📊 Data Engineering & Analytics  
+
+<p>
+  <a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-FF471A.svg?logo=dbt&logoColor=white"></a>
+  <a href="#"><img alt="SparkSQL" src="https://img.shields.io/badge/SparkSQL-FFCC00.svg?logo=apache-spark&logoColor=black"></a>
+  <a href="#"><img alt="dbt-spark" src="https://img.shields.io/badge/dbt--spark-F25C54.svg?logo=dbt&logoColor=white"></a>
+  <a href="#"><img alt="Mage AI" src="https://img.shields.io/badge/Mage%20AI-FF0066.svg?logoColor=white"></a>
+</p>
+
+### 🔥 Machine Learning & AI  
+<p>
+  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white"></a>
+</p>
+
+### 🎯 Computer Vision  
+
+<p align="left">
+  <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-6A1B9A?style=for-the-badge&logoColor=white&labelColor=3E0B6A&padding=10"></a>
+  <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-007ACC?style=for-the-badge&logo=opencv&logoColor=white&labelColor=004B8D&padding=10"></a>
+  <a href="#"><img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-FF5722?style=for-the-badge&logoColor=white&labelColor=C41C00&padding=10"></a>
+</p>
+
+### 🔥 Web Scraping  
+
+<p align="left">
+  <a href="#"><img alt="Requests" src="https://img.shields.io/badge/Requests-007ACC?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Beautiful Soup" src="https://img.shields.io/badge/BeautifulSoup-FFD43B?logo=python&logoColor=black&style=for-the-badge"></a>
+</p>
   
-  <p>
-      <a href="#"><img alt="DeepFace" src="https://img.shields.io/badge/DeepFace-543DE0?logo=DeepFace&logoColor=white"></a>
-      <a href="#"><img alt="Open CV" src="https://img.shields.io/badge/open-cv.svg?logo=opencv&logoColor=white"></a>
-      <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-161637?logo=Mediapipe&logoColor=white"></a>
-  </p>
-      
-  ### 🔥 Web Scrapping
-  
-  <p>
-      <a href="#"><img alt="Requests" src="https://img.shields.io/badge/requests-2962FF?logo=requests&logoColor=white"></a>
-      <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-FD3A5C?logo=selenium&logoColor=white"></a>
-      <a href="#"><img alt="Beautiful Soup" src="https://img.shields.io/badge/BeautifulSoup-F4B728?logo=Beautiful%20Soup&logoColor=white"></a>
-  </p>
-      
-  
-### 🔥 Natural Language Processing
-  
-  <p>
-      <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0000CC?logo=NLTK&logoColor=white"></a>
-      <a href="#"><img alt="Gensim" src="https://img.shields.io/badge/Gensim-BB8907?logo=Gensim&logoColor=white"></a>
-      <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-470137?logo=spaCy&logoColor=white"></a>
-      <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-FF61F6?logo=TextBlob&logoColor=white"></a>
-  </p>
-      
+### 🔥 Natural Language Processing  
+
+<p align="left">
+  <a href="#"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-005A9C?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Gensim" src="https://img.shields.io/badge/Gensim-FFA500?logo=gensim&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-8A2BE2?logo=spaCy&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="TextBlob" src="https://img.shields.io/badge/TextBlob-FF1493?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge"></a>
+  <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-4A90E2?logo=pytorch&logoColor=white&style=for-the-badge"></a>
+</p>
+
 ### 🔥 Data Visualization Tools & Libraries
 
-  <p>
-      <a href="#"><img alt="Microsoft Power BI" src="https://img.shields.io/badge/power-bi.svg?logo=power-bi&logoColor=white"></a>
-      <a href="#"><img alt="Apache Superset" src="https://img.shields.io/badge/Apache Superset-AA007A.svg?logo=Superset&logoColor=white"></a>
-      <a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/looker-7D00FF.svg?logo=looker&logoColor=white"></a>
-      <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=Tableau&logoColor=white"></a>
-      <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-298D46?logo=Matplotlib&logoColor=white"></a>
-      <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-7D4698?logo=seaborn&logoColor=white"></a>
-      <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/plotly-E6007A.svg?logo=plotly&logoColor=white"></a>
-  </p>
+<p align="left">
+  <a href="#"><img alt="Microsoft Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black&style=for-the-badge"></a>
+  <a href="#"><img alt="Apache Superset" src="https://img.shields.io/badge/Apache%20Superset-AA007A?logo=apache&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-7D00FF?logo=looker&logoColor=white&style=for-the-badge"></a>
+<!--   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=for-the-badge"></a> -->
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-298D46?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-7D4698?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge"></a>
+</p>
 
- ### 🔥 Frameworks & Libraries
- <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-  </p>
-      
+### 🔥 Frameworks & Libraries
+
+<p align="left">
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"></a>
+  <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"></a>
+</p>
+
 ### 🔥 Programming & Markup Languages
+
+<p align="left">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C?logo=c-in-hexagon&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A?logo=cpp2&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A?logo=cs2&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
+  <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C?logo=database&logoColor=white&style=for-the-badge"></a>
+</p>
+
+### 🔥 Databases & Cloud Hosting  
+
+<p align="left">
+  <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"></a> 
+  <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF007A?logo=databricks&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Trino" src="https://img.shields.io/badge/Trino-000080?logo=trino&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000?logo=oracle&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
+</p>
+
   
-  <p>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-      <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-      <a href="#l"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  </p>
-    
-### 🔥 Databases & Cloud Hosting
-  
-  <p>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=white"></a> 
-      <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF007A.svg?logo=databricks&logoColor=white"></a>
-      <a href="#"><img alt="Trino" src="https://img.shields.io/badge/trino-000080.svg?logo=&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  </p>
-  
-### 🔥 Software & Tools
-  
-  <p>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="spyder" src="https://img.shields.io/badge/spyder-9013FE?logo=spyder-ide&logoColor=white"></a>
-      <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-FFF000.svg?logo=dbeaver&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime-B71C1C?logo=sublime-text&logoColor=white"></a>
-  </p>
-  
-</details>
+### 🔥 Software & Tools  
+
+<p align="left">
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder-9013FE?logo=spyder-ide&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-37256B?logo=dbeaver&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white&style=for-the-badge"></a>
+  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublime-text&logoColor=black&style=for-the-badge"></a>
+</p>
+
 
 # 🏆 Certifications  
 
