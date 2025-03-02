@@ -6,7 +6,10 @@
 
 **Resume**: [View Resume]()
 
-## 🛠️ Technologies & Tools
+# 📈 What I Bring to the Table
+
+
+# 🛠️ Technologies & Tools
 
 ### **Data Analytics**
 - **Programming & Query Languages**: Python, SQL  
