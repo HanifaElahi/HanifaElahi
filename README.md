@@ -6,33 +6,23 @@
 
 **Resume**: [View Resume]()
 
-## 🛠️ Technical Skills
+## 🛠️ Technologies & Tools
 
-### **Data Engineering & Analytics**
-- **Tools**: dbt, SparkSQL, dbt-spark, Mage AI  
-- **Databases**: MySQL, SQL Server, Oracle, SQLite, Trino, Databricks  
-- **Cloud Platforms**: Firebase, GitHub Pages, Heroku, Vercel  
-
-### **Machine Learning & AI**
-- **Frameworks**: Scikit-learn, TensorFlow, Keras  
+### **Data Analytics**
+- **Programming & Query Languages**: Python, SQL  
+- **Data Visualization**: Power BI, Apache Superset, Looker Studio 
+- **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Trino  
+- **Data Engineering Tools**: dbt, SparkSQL, Mage AI  
+- **Machine Learning Frameworks**: Scikit-learn, TensorFlow, Keras  
 - **NLP Libraries**: NLTK, spaCy, Gensim, Hugging Face, Transformers  
 - **Computer Vision**: OpenCV, DeepFace, MediaPipe  
 
-### **Data Visualization**
-- **Tools**: Power BI, Apache Superset, Looker Studio  
-- **Libraries**: Matplotlib, Seaborn, Plotly  
-
-### **Programming Languages**
-- **Proficient**: Python, SQL, JavaScript  
-- **Familiar**: C, C++, C#, HTML, CSS, PHP, Markdown  
-
-### **Web Scraping & Automation**
-- **Tools**: Requests, Selenium, Beautiful Soup  
-
-### **Software & Tools**
+### **Other Familiar Tools**
+- **Web Scraping & Automation**: Requests, Selenium, Beautiful Soup  
 - **IDEs**: Jupyter, Spyder, Visual Studio Code, Sublime Text  
 - **Version Control**: Git, GitHub Desktop  
-- **Other Tools**: DBeaver, Google Sheets  
+- **Spreadsheet Tools**: Excel, Google Sheets  
+- **Cloud Platforms**: Firebase, GitHub Pages, Heroku, Vercel  
 
 --- 
 
