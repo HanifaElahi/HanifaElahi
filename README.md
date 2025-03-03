@@ -1,4 +1,4 @@
-# � About Me:
+# � About Me
 
 **Professional Experience:** 3.5 years as a Data Analyst, specializing in data-driven decision-making, business intelligence, and advanced analytics.
 
