@@ -1,24 +1,29 @@
-# � About Me
+# 👩‍💻 About Me
 
-**Professional Experience:** 3.5 years as a Data Analyst, specializing in data-driven decision-making, business intelligence, and advanced analytics.
+#### **Professional Experience:** 
 
-**Core Expertise:** Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vision, and Product Analytics.
+3.5 years as a Data Analyst, specializing in data-driven decision-making, business intelligence, and advanced analytics.
 
-**Resume**: [View Resume]()
+#### **Core Expertise:**
 
-# 📈 What I Bring to the Table
+Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vision, and Product Analytics.
 
-- Expertise in user retention analysis and behavioral analytics, identifying trends and opportunities to optimize conversion rates.
-- Skilled in data-driven insights, enabling revenue growth and cost-saving strategies through actionable recommendations.
-- Strong ability to analyze in-app user behavior, uncovering insights to improve product usability and performance.
-- Expertise in sales funnel analysis, identifying key drivers of conversion and areas for improvement.
-- Proven track record of delivering actionable insights that drive measurable results, including revenue growth and retention improvements.
-- Strong collaboration skills, working effectively with cross-functional teams (product, engineering, and analytics) to align data insights with business goals.
+#### **Resume**: [View Resume]()
 
+# 🚀 What I Bring to the Table
+
+- Develop interactive dashboards and reports for clear, data-driven decision-making.
+- Perform data cleaning, preprocessing, and exploratory analysis to ensure accuracy and reliability.
+- Optimize SQL queries for improved performance and efficiency.
+- Automate repetitive data tasks to enhance productivity and resource management.
+- Conduct in-depth user retention and behavioral analytics to optimize conversion rates.
+- Skilled in CRM experimentation, analyzing acquisition, retention, and feature performance.
+- Strong ability to assess in-app user behavior, sales funnel efficiency, and product usability.
+- Collaborate effectively with cross-functional teams (product, engineering, and analytics) to align data insights with business objectives.
 
 # 🛠️ Technologies & Tools
 
-### **Data Analytics**
+### 🔹 **Data Analytics**
 - **Programming & Query Languages**: Python, SQL  
 - **Data Visualization**: Power BI, Apache Superset, Looker Studio 
 - **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Trino  
@@ -27,7 +32,7 @@
 - **NLP Libraries**: NLTK, spaCy, Gensim, Hugging Face, Transformers  
 - **Computer Vision**: OpenCV, DeepFace, MediaPipe  
 
-### **Other Familiar Tools**
+### 🔹  **Other Familiar Tools**
 - **Web Scraping & Automation**: Requests, Selenium, Beautiful Soup  
 - **IDEs**: Jupyter, Spyder, Visual Studio Code, Sublime Text  
 - **Version Control**: Git, GitHub Desktop  
