@@ -8,6 +8,13 @@
 
 # 📈 What I Bring to the Table
 
+- Expertise in user retention analysis and behavioral analytics, identifying trends and opportunities to optimize conversion rates.
+- Skilled in data-driven insights, enabling revenue growth and cost-saving strategies through actionable recommendations.
+- Strong ability to analyze in-app user behavior, uncovering insights to improve product usability and performance.
+- Expertise in sales funnel analysis, identifying key drivers of conversion and areas for improvement.
+- Proven track record of delivering actionable insights that drive measurable results, including revenue growth and retention improvements.
+- Strong collaboration skills, working effectively with cross-functional teams (product, engineering, and analytics) to align data insights with business goals.
+
 
 # 🛠️ Technologies & Tools
 
