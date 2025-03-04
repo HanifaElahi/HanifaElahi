@@ -30,7 +30,11 @@ Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vi
 - **Data Engineering Tools**: dbt, SparkSQL, Mage AI  
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow, Keras  
 - **NLP Libraries**: NLTK, spaCy, Gensim, Hugging Face, Transformers  
-- **Computer Vision**: OpenCV, DeepFace, MediaPipe  
+- **Computer Vision**: OpenCV, DeepFace, MediaPipe
+
+### 🔹 Marketing & Advertising Analytics
+- **Ad Platforms:** Meta Ads Manager, Google Ads Manager
+- **Analytics & Tracking:** Google Analytics
 
 ### 🔹  **Other Familiar Tools**
 - **Web Scraping & Automation**: Requests, Selenium, Beautiful Soup  
