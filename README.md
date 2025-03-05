@@ -34,7 +34,7 @@ Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vi
 
 ### 🔹 Marketing & Advertising Analytics
 - **Ad Platforms:** Meta Ads Manager, Google Ads Manager
-- **Analytics & Tracking:** Google Analytics
+- **Analytics & Tracking:** Google Analytics, Mixpanel
 
 ### 🔹  **Other Familiar Tools**
 - **Web Scraping & Automation**: Requests, Selenium, Beautiful Soup  
