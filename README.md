@@ -2,7 +2,7 @@
 
 #### **Professional Experience:** 
 
-3.5 years as a Data Analyst, specializing in data-driven decision-making, business intelligence, and advanced analytics.
+3.5 years in Data Analytics, specializing in data-driven decision-making, business intelligence, and advanced analytics.
 
 #### **Core Expertise:**
 
@@ -84,6 +84,4 @@ Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vi
 </p>
 
 </details>
-
-
 
