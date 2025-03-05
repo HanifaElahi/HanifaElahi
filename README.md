@@ -1,14 +1,14 @@
 # 👩‍💻 About Me
 
-### **Professional Experience:** 
+#### **Professional Experience:** 
 
 3.5 years in Data Analytics, specializing in data-driven decision-making, business intelligence, and advanced analytics.
 
-### **Core Expertise:**
+#### **Core Expertise:**
 
 Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vision, and Product Analytics.
 
-### **Resume**: [View Resume]()
+#### **Resume**: [View Resume]()
 
 # 🚀 What I Bring to the Table
 
