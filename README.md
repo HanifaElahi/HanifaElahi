@@ -2,7 +2,7 @@
 
 #### **Professional Experience:** 
 
-3.5 years in Data Analytics, specializing in data-driven decision-making, business intelligence, and advanced analytics.
+A highly analytical and detail-oriented Data Analyst with 3.5 years of experience in transforming complex datasets into actionable business insights. Adept at working with cross-functional teams, optimizing data pipelines, and driving data-driven decision-making.
 
 #### **Core Expertise:**
 
