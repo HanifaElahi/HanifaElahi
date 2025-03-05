@@ -43,8 +43,6 @@ Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vi
 - **Spreadsheet Tools**: Excel, Google Sheets  
 - **Cloud Platforms**: Firebase, GitHub Pages, Heroku, Vercel  
 
---- 
-
 <details>
 <summary><h2>🏆 Certifications</h2></summary>
 
@@ -70,8 +68,6 @@ Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vi
 - [Python (Basic)](https://www.hackerrank.com/certificates/d6679de301f0)  
 
 </details>
-
---- 
 
 <details>
 <summary><h2>🌐 Online Profiles & Platforms</h2></summary>
