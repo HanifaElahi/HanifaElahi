@@ -2,7 +2,7 @@
 
 #### Professional Experience:
 
-A highly analytical and detail-oriented **Data Analyst**, **Product Analyst**, and **Analytics Engineer** with 3.5 years of experience in leveraging data to drive business growth, optimize product performance, and support data infrastructure. I specialize in transforming raw data into actionable insights, enabling data-driven decision-making across organizations. My expertise spans data analysis, product analytics, and analytics engineering, with a strong focus on improving user experiences, optimizing conversion rates, and enhancing operational efficiency.
+A results-driven **Data & Analytics** Professional with **3.5 years of experience** in **data analysis, product analytics, and analytics engineering**. I specialize in **leveraging data** to drive **business growth**, optimize **product performance**, and enhance **user experiences**. Skilled in extracting **actionable insights** from complex datasets, I conduct in-depth analyses to **improve conversion rates, streamline operational processes**, and **support data-driven decision-making**. My expertise includes **data cleaning, exploratory analysis,** and **creating interactive dashboards** to **communicate insights** effectively. I excel at collaborating with **cross-functional teams**, including product, engineering, and marketing, to **align data strategies** with **business objectives** and **deliver measurable results**.
 
 ####  Core Expertise:
 
@@ -24,6 +24,7 @@ You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
 - Skilled in CRM experimentation, analyzing acquisition, retention, and feature performance.
 - Strong ability to assess in-app user behavior, sales funnel efficiency, and product usability.
 - Automate repetitive data tasks to enhance productivity and resource management.
+- Proficient in documentation, crafting clear and comprehensive reports, as well as detailed data and analytics process workflows, to ensure transparency and facilitate knowledge sharing across teams.
 
 # 🛠️ Technologies & Tools
 
