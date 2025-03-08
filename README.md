@@ -46,7 +46,8 @@ You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
 - **IDEs**: Jupyter, Spyder, Visual Studio Code, Sublime Text  
 - **Version Control**: Git, GitHub Desktop  
 - **Spreadsheet Tools**: Excel, Google Sheets  
-- **Cloud Platforms**: Firebase, GitHub Pages, Heroku, Vercel  
+- **Cloud Platforms**: Firebase, GitHub Pages, Heroku, Vercel
+- **Productivity & Collaboration:** Notion
 
 <details>
 <summary><h2>🏆 Certifications</h2></summary>
