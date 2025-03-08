@@ -1,14 +1,18 @@
 # 👩‍💻 About Me
 
-#### **Professional Experience:** 
+#### Professional Experience:
 
-A highly analytical and detail-oriented Data Analyst with 3.5 years of experience in transforming complex datasets into actionable business insights. Adept at working with cross-functional teams, optimizing data pipelines, and driving data-driven decision-making.
+A highly analytical and detail-oriented **Data Analyst** and **Product Analyst** with 3.5 years of experience in leveraging data to drive business growth and optimize product performance. Based in Pakistan 🇵🇰, I specialize in transforming raw data into actionable insights, enabling data-driven decision-making across organizations. My expertise spans data analysis, product analytics, and data engineering, with a strong focus on improving user experiences, optimizing conversion rates, and enhancing operational efficiency.
 
-#### **Core Expertise:**
+####  Core Expertise:
 
-Data Analytics, Machine Learning, Natural Language Processing (NLP), Computer Vision, and Product Analytics.
+Data Analytics, Product Analytics, Machine Learning, Natural Language Processing (NLP), and Computer Vision.
 
-#### **Resume**: [View Resume]()
+####  Writing 
+
+You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
+
+####  Resume: [View Resume]()
 
 # 🚀 What I Bring to the Table
 
