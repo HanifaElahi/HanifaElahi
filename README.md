@@ -16,14 +16,14 @@ You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
 
 # 🚀 What I Bring to the Table
 
-- Develop interactive dashboards and reports for clear, data-driven decision-making.
 - Perform data cleaning, preprocessing, and exploratory analysis to ensure accuracy and reliability.
-- Optimize SQL queries for improved performance and efficiency.
-- Automate repetitive data tasks to enhance productivity and resource management.
+- Develop interactive dashboards and reports for clear, data-driven decision-making.
 - Conduct in-depth user retention and behavioral analytics to optimize conversion rates.
+- Optimize SQL queries for improved performance and efficiency.
+- Collaborate effectively with cross-functional teams (product, engineering, and analytics) to align data insights with business objectives.
 - Skilled in CRM experimentation, analyzing acquisition, retention, and feature performance.
 - Strong ability to assess in-app user behavior, sales funnel efficiency, and product usability.
-- Collaborate effectively with cross-functional teams (product, engineering, and analytics) to align data insights with business objectives.
+- Automate repetitive data tasks to enhance productivity and resource management.
 
 # 🛠️ Technologies & Tools
 
