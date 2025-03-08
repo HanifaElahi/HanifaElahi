@@ -2,7 +2,7 @@
 
 #### Professional Experience:
 
-A highly analytical and detail-oriented **Data Analyst** and **Product Analyst** with 3.5 years of experience in leveraging data to drive business growth and optimize product performance. Based in Pakistan 🇵🇰, I specialize in transforming raw data into actionable insights, enabling data-driven decision-making across organizations. My expertise spans data analysis, product analytics, and data engineering, with a strong focus on improving user experiences, optimizing conversion rates, and enhancing operational efficiency.
+A highly analytical and detail-oriented **Data Analyst**, **Product Analyst**, and **Analytics Engineer** with 3.5 years of experience in leveraging data to drive business growth, optimize product performance, and build scalable data solutions. I specialize in transforming raw data into actionable insights, enabling data-driven decision-making across organizations. My expertise spans data analysis, product analytics, and analytics engineering, with a strong focus on improving user experiences, optimizing conversion rates, and enhancing operational efficiency.
 
 ####  Core Expertise:
 
