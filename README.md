@@ -16,15 +16,15 @@ You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
 
 # 🚀 What I Bring to the Table
 
-- Perform data cleaning, preprocessing, and exploratory analysis to ensure accuracy and reliability.
-- Develop interactive dashboards and reports for clear, data-driven decision-making.
-- Conduct in-depth user retention and behavioral analytics to optimize conversion rates.
-- Optimize SQL queries for improved performance and efficiency.
-- Collaborate effectively with cross-functional teams (product, engineering, and analytics) to align data insights with business objectives.
-- Skilled in CRM experimentation, analyzing acquisition, retention, and feature performance.
-- Strong ability to assess in-app user behavior, sales funnel efficiency, and product usability.
-- Automate repetitive data tasks to enhance productivity and resource management.
-- Proficient in documentation, crafting clear and comprehensive reports, as well as detailed data and analytics process workflows, to ensure transparency and facilitate knowledge sharing across teams.
+- **Data Cleaning & Analysis:** Process, clean, and analyze large-scale datasets (1M+ rows) to ensure 99%+ data accuracy while performing exploratory data analysis (EDA) to uncover trends, detect anomalies, and drive actionable insights.
+- **Data Visualization & Reporting:** Develop interactive dashboards in Power BI, Looker Studio, and Superset to reduce reporting time by 30% and present complex data insights through visual storytelling, enhancing stakeholder decision-making efficiency by 25%.
+- **User & Product Analytics:** Conduct user retention and behavioral analytics to increase conversion rates by 15% and reduce churn by 20%, while optimizing sales funnels and in-app user journeys to improve feature adoption by 10–15%.
+- **SQL Performance & Data Optimization:** Write and optimize complex SQL queries to improve execution time by 40% and ensure efficient data retrieval from PostgreSQL and Trino while handling millions of records.
+- **A/B Testing & CRM Insights:** Conduct data-driven experiments to refine acquisition, retention, and feature adoption strategies.
+- **Automation & Efficiency:** Automate repetitive data tasks, including ETL and reporting, to reduce manual effort by 30%, improve resource allocation, and enhance workflow efficiency through data pipeline automation.
+- **Cross-Functional Collaboration:** Partner with product, engineering, and analytics teams to align data insights with business objectives and drive strategic growth.
+- **Data Storytelling & Documentation:** Create clear and comprehensive analytics documentation with well-structured data process workflows to ensure seamless cross-team collaboration and reduce onboarding time for new analysts by 50%.
+
 
 # 🛠️ Technologies & Tools
 
