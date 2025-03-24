@@ -2,7 +2,7 @@
 
 #### Professional Experience:
 
-A results-driven **Data & Analytics** Professional with **3.5 years of experience** in **data analysis, product analytics, and analytics engineering**. I specialize in **leveraging data** to drive **business growth**, optimize **product performance**, and enhance **user experiences**. Skilled in extracting **actionable insights** from complex datasets, I conduct in-depth analyses to **improve conversion rates, streamline operational processes**, and **support data-driven decision-making**. My expertise includes **data cleaning, exploratory analysis,** and **creating interactive dashboards** to **communicate insights** effectively. I excel at collaborating with **cross-functional teams**, including product, engineering, and marketing, to **align data strategies** with **business objectives** and **deliver measurable results**.
+**Data & Analytics** Professional with **3.5 years** of experience in **product analytics**, **machine learning**, and **BI**. Passionate about **leveraging data** for **business growth**, **optimizing user experiences**, and **automating workflows.**
 
 ####  Core Expertise:
 
@@ -16,15 +16,14 @@ You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
 
 # 🚀 What I Bring to the Table
 
-- **Data Cleaning & Analysis:** Process, clean, and analyze large-scale datasets (1M+ rows) to ensure 99%+ data accuracy while performing exploratory data analysis (EDA) to uncover trends, detect anomalies, and drive actionable insights.
-- **Data Visualization & Reporting:** Develop interactive dashboards in Power BI, Looker Studio, and Superset to reduce reporting time by 30% and present complex data insights through visual storytelling, enhancing stakeholder decision-making efficiency by 25%.
-- **User & Product Analytics:** Conduct user retention and behavioral analytics to increase conversion rates by 15% and reduce churn by 20%, while optimizing sales funnels and in-app user journeys to improve feature adoption by 10–15%.
-- **SQL Performance & Data Optimization:** Write and optimize complex SQL queries to improve execution time by 40% and ensure efficient data retrieval from PostgreSQL and Trino while handling millions of records.
-- **A/B Testing & CRM Insights:** Conduct data-driven experiments to refine acquisition, retention, and feature adoption strategies.
-- **Automation & Efficiency:** Automate repetitive data tasks, including ETL and reporting, to reduce manual effort by 30%, improve resource allocation, and enhance workflow efficiency through data pipeline automation.
-- **Cross-Functional Collaboration:** Partner with product, engineering, and analytics teams to align data insights with business objectives and drive strategic growth.
-- **Data Storytelling & Documentation:** Create clear and comprehensive analytics documentation with well-structured data process workflows to ensure seamless cross-team collaboration and reduce onboarding time for new analysts by 50%.
-
+- **Data Processing & Analysis:** Clean, preprocess, and analyze large datasets for accuracy and reliability.
+- **Dashboarding & Reporting:** Build interactive dashboards for data-driven decision-making.
+- **User & Product Analytics:** Analyze retention, user behavior, and sales funnels to optimize conversions.
+- **SQL Performance Optimization:** Write and optimize queries for efficiency and scalability.
+- **Cross-Functional Collaboration:** Align data insights with business objectives across teams.
+- **CRM & Experimentation:** Conduct A/B testing and analyze acquisition, retention, and feature adoption.
+- **Automation & Efficiency:** Streamline repetitive tasks to improve productivity.
+- **Documentation & Knowledge Sharing:** Maintain clear analytics documentation and workflows for transparency.
 
 # 🛠️ Technologies & Tools
 
