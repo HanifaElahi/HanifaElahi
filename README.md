@@ -14,7 +14,7 @@
 - **SQL Optimization** – Write efficient, scalable queries.  
 - **Experimentation & CRM** – Conduct A/B tests, analyze acquisition & retention.  
 - **Automation & Workflow Optimization** – Streamline repetitive tasks.  
-- **Cross-Team Collaboration** – Align data insights with business objectives. 
+- **Cross-Team Collaboration** – Partner with teams to integrate data-driven decisions.
 
 # 🛠️ Technologies & Tools
 
