@@ -8,13 +8,13 @@
 
 # 🚀 What I Bring to the Table
 
-- **Data Analysis & Processing** – Clean, preprocess, and analyze large datasets to uncover trends and actionable insights.
-- **Dashboarding & Reporting** – Design and build interactive dashboards and reports to enable data-driven decision-making. 
-- **Product & User Analytics** – Analyze user behavior, retention, and sales funnels to identify opportunities for optimization. 
-- **SQL Optimization** – Write efficient, scalable SQL queries for complex data extraction and analysis.  
-- **Experimentation & CRM** – Conduct A/B tests and analyze customer acquisition, retention, and engagement metrics.  
-- **Automation & Workflow Optimization** – Streamline workflows and automate repetitive tasks to improve productivity.  
-- **Cross-Team Collaboration** – Partner with product, marketing, and engineering teams to integrate data insights into business strategies.
+- **Data Analysis & Processing** – Clean, preprocess, and analyze large datasets.
+- **Dashboarding & Reporting** – Build interactive dashboards for decision-making.
+- **Product & User Analytics** – Optimize retention, sales funnels, and user behavior.
+- **SQL Optimization** – Write efficient, scalable queries.
+- **Experimentation & CRM** – Conduct A/B tests, analyze acquisition & retention.
+- **Automation & Workflow Optimization** – Streamline repetitive tasks.
+- **Cross-Team Collaboration** – Partner with teams to integrate data-driven decisions.
 
 # 🛠️ Technologies & Tools
 
@@ -30,7 +30,4 @@
 - **LinkedIn:** [Hanifa Elahi](https://linkedin.com/in/hanifa-elahi-98570a197/)  
 - **Kaggle:** [@hanifaelahi](https://kaggle.com/hanifaelahi)  
 - **HackerRank:** [@hanifa_elahi](https://www.hackerrank.com/hanifa_elahi)  
-
-
-
 
