@@ -2,7 +2,7 @@
 
 #### Professional Experience:
 
-**Data & Analytics** Professional with **3.5 years** of experience in **product analytics**, **machine learning**, and **BI**. Passionate about **leveraging data** for **business growth**, **optimizing user experiences**, and **automating workflows.**
+**Data & Analytics** Professional with **3.5 years** of experience in **product analytics**, **machine learning**, and **business intelligence**. Passionate about **driving business growth**, **enhancing user experiences**, and **automating workflows** through **data-driven insights**.
 
 ####  Resume: [View Resume]()
 
@@ -18,7 +18,7 @@
 
 # 🛠️ Technologies & Tools
 
-- Languages & Databases: `Python` · `SQL` · `MySQL` · `PostgreSQL` · `Trino` · `Google BigQuery`  
+- Languages & Databases: `Python` · `SQL`  (`MySQL` · `PostgreSQL` · `Trino` · `Google BigQuery`) 
 - BI & Visualization: `Power BI` · `Apache Superset` · `Looker Studio`  
 - Data Engineering Tools: `dbt` · `SparkSQL` · `Mage AI`  
 - ML & NLP: `scikit-learn` · `Keras` · `Hugging Face` · `OpenCV` · `spaCy` · `NLTK` · `Gensim`  
