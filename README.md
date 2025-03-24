@@ -8,10 +8,6 @@
 
 Data Analytics, Product Analytics, Machine Learning, Natural Language Processing (NLP), and Computer Vision.
 
-####  Writing 
-
-You can view my Medium profile [here](https://medium.com/@hanifa.elahi).
-
 ####  Resume: [View Resume]()
 
 # 🚀 What I Bring to the Table
