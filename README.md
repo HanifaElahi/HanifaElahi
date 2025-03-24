@@ -18,12 +18,12 @@
 
 # 🛠️ Technologies & Tools
 
-- Languages & Databases: `Python` · `SQL`  (`MySQL` · `PostgreSQL` · `Trino` · `Google BigQuery`) 
-- BI & Visualization: `Power BI` · `Apache Superset` · `Looker Studio`  
-- Data Engineering Tools: `dbt` · `SparkSQL` · `Mage AI`  
-- ML & NLP: `scikit-learn` · `Keras` · `Hugging Face` · `OpenCV` · `spaCy` · `NLTK` · `Gensim`  
-- Marketing Analytics: `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads`  
-- Other Tools: `Git` · `Jupyter` · `Selenium` · `Firebase` · `Excel` · `Notion`  
+- **Languages & Databases**: `Python` · `SQL`  (`MySQL` · `PostgreSQL` · `Trino` · `Google BigQuery`) 
+- **BI & Visualization**: `Power BI` · `Apache Superset` · `Looker Studio`  
+- **Data Engineering Tools**: `dbt` · `SparkSQL` · `Mage AI`  
+- **ML & NLP**: `scikit-learn` · `Keras` · `Hugging Face` · `OpenCV` · `spaCy` · `NLTK` · `Gensim`  
+- **Marketing & Clickstream Analytics**: `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads`  
+- **Other Tools**: `Git` · `Jupyter` · `Selenium` · `Firebase` · `Excel` · `Notion`  
 
 ## 📬 Connect with Me  
 
