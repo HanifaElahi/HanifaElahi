@@ -29,7 +29,7 @@ I help teams transform complex and messy datasets into clear decisions, measurab
 * **Dashboarding & Reporting** – Build interactive dashboards and self-serve reporting to facilitate data-driven decision-making
 * **SQL & Data Optimization** – High-performance queries and transformation layers
 * **CRM & Retention Analytics** – Analyze customer lifecycles to improve acquisition and long-term engagement.
-* **Data Engineering & Workflow Automation** – Build ETL pipelines, dbt models, and Python-based workflows to streamline repetitive tasks.
+* **Data Engineering & Workflow** – Build ETL pipelines, dbt models, and Python-based workflows to streamline repetitive tasks.
 * **Cross-Team Collaboration** – Partner with Product, Marketing, and Leadership teams to integrate data insights into business strategy.
 
 
