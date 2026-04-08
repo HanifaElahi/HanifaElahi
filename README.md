@@ -2,7 +2,7 @@
 
 #### Professional Experience:
 
-**Data & Analytics** Professional with **3.5 years** of experience in **product analytics**, **machine learning**, and **business intelligence**. Passionate about **driving business growth**, **enhancing user experiences**, and **automating workflows** through **data-driven insights**.
+**Data & Analytics** Professional with **4.5 years** of experience in **product analytics**, **machine learning**, and **business intelligence**. Passionate about **driving business growth**, **enhancing user experiences**, and **automating workflows** through **data-driven insights**.
 
 ####  Resume: [View Resume]()
 
