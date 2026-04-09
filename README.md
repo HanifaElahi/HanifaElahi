@@ -1,7 +1,15 @@
+<div align="center">
+  <img src="./profile_banner.png" alt="Hanifa Elahi - Data & Analytics Professional" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
 # Hi, I'm Hanifa Elahi 👋
+**Data & Analytics Professional | Transforming Raw Data into Business Impact**
 
-**Data & Analytics Professional | Transforming raw data into business impact**
-
+</div>
 
 ---
 
