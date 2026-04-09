@@ -51,7 +51,7 @@ I help teams transform complex and messy datasets into clear decisions, measurab
 | **BI & Visualization** | `Power BI` · `Apache Superset` · `Looker Studio` |
 | **Data Engineering** | `dbt` · `Apache Spark` · `Mage AI` |
 | **Marketing & Analytics** | `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads` |
-| **Workflow & Others** | `Git` · `Jupyter` · `Selenium` · `Firebase` · `Notion` · `Excel`|
+| **Workflow & Others** | `Git` · `Jupyter` · `Selenium` · `Firebase` · `Notion` · `Excel` |
 
 
 ---
