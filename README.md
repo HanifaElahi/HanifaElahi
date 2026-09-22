@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Senior Data Analyst with 4.5+ years of experience** across product analytics, business intelligence, and data engineering — currently at **Maqsad**, an ed-tech product.
+I'm a **Senior Data Analyst with 4.5+ years of experience** across product analytics, business intelligence, and data engineering — currently at **Maqsad**, an ed-tech startup.
 
-I turn complex, messy datasets into clear decisions and measurable outcomes. My work sits at the intersection of **data, product, and strategy** — from building KPI dashboards and dbt pipelines to analyzing user journeys, retention funnels, and growth campaigns.
+I turn complex, messy datasets into clear decisions and measurable outcomes. My work sits at the intersection of **data, product, and strategy** — from building data pipelines and dashboards to uncovering the insights that drive product and business growth.
 
 📍 Karachi, Pakistan (UTC+5) | 📄 [**Resume**](REPLACE_WITH_DIRECT_PDF_LINK)
 
