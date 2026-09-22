@@ -1,66 +1,57 @@
-<div align="center">
-  <img src="./profile_banner.png" alt="Hanifa Elahi - Data & Analytics Professional" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
+[![Hanifa Elahi - Data & Analytics Professional](https://github.com/HanifaElahi/HanifaElahi/raw/main/profile_banner.png)](https://github.com/HanifaElahi/HanifaElahi/blob/main/profile_banner.png)
 
 # Hi, I'm Hanifa Elahi 👋
-**Data & Analytics Professional | Transforming Raw Data into Business Impact**
 
-</div>
-
----
-
-# 👩‍💻 About Me
-
-I am a **Data & Analytics professional with 4.5+ years of experience** across product analytics and business intelligence. 
-
-I help teams transform complex and messy datasets into clear decisions, measurable product outcomes, and business impact. My work sits at the intersection of data, product, and strategy—ranging from building KPI dashboards and optimizing SQL pipelines to analyzing user journeys and retention funnels.
-
-**I’m passionate about:**
-- Converting raw data into actionable business stories.
-- Improving product experiences through behavioral insights.
-- Building automated reporting and scalable data workflows.
-- Enabling teams to make faster, data-backed decisions.
-
-📍 Karachi, Pakistan (UTC+5) | 📄 [**Resume**]()
-
+**Senior Data Analyst | Turning Messy Data into Decisions That Move the Business**
 
 ---
 
-# 🚀 What I Bring to the Table
+## 👩‍💻 About Me
 
-* **Product & User Analytics** – Optimize retention, funnel performance, and user journeys through cohort and behavioral analysis
-* **Data Analysis & Processing** – Clean, preprocess, and analyze large-scale datasets to extract actionable business insights
-* **Dashboarding & Reporting** – Build interactive dashboards and self-serve reporting to facilitate data-driven decision-making
-* **SQL & Data Optimization** – High-performance queries and transformation layers
-* **CRM & Retention Analytics** – Analyze customer lifecycles to improve acquisition and long-term engagement.
-* **Data Engineering & Workflow** – Build ETL pipelines, dbt models, and Python-based workflows to streamline repetitive tasks.
-* **Cross-Team Collaboration** – Partner with Product, Marketing, and Leadership teams to integrate data insights into business strategy.
+I'm a **Senior Data Analyst with 4.5+ years of experience** across product analytics, business intelligence, and data engineering — currently at **Maqsad**, an ed-tech product.
 
+I turn complex, messy datasets into clear decisions and measurable outcomes. My work sits at the intersection of **data, product, and strategy** — from building KPI dashboards and dbt pipelines to analyzing user journeys, retention funnels, and growth campaigns.
+
+📍 Karachi, Pakistan (UTC+5) | 📄 [**Resume**](REPLACE_WITH_DIRECT_PDF_LINK)
 
 ---
-  
-# 🛠️ Tech Stack
+
+## 🚀 What I Do
+
+- **Product & User Analytics** — retention, funnels, and user journeys through cohort and behavioral analysis
+- **Data Engineering & Workflow** — dbt (Medallion Architecture), Spark ETL, and Python automation pipelines
+- **Dashboarding & Reporting** — interactive, self-serve dashboards and automated reporting
+- **SQL & Data Optimization** — high-performance queries and transformation layers
+- **Growth & Marketing Analytics** — campaign strategy, ROI tracking, and channel diagnostics
+- **Cross-Team Collaboration** — partner with Product, Marketing, and Leadership to turn insight into strategy
+
+---
+
+## 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages & DBs** | `Python` · `SQL` (`MySQL`, `PostgreSQL`, `Trino`, `BigQuery`) |
+| --- | --- |
+| **Languages & DBs** | `Python` · `R` · `SQL` (`MySQL`, `PostgreSQL`, `Trino`, `BigQuery`) |
 | **BI & Visualization** | `Power BI` · `Apache Superset` · `Looker Studio` |
-| **Data Engineering** | `dbt` · `Apache Spark` · `Mage AI` |
+| **Data Engineering** | `dbt` · `Apache Spark` · `Mage AI` · `Apache Kafka` |
 | **Marketing & Analytics** | `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads` |
 | **Workflow & Others** | `Git` · `Jupyter` · `Selenium` · `Firebase` · `Notion` · `Excel` |
 
+---
+
+## 🎓 Education & Recognition
+
+- **B.E. Software Engineering** — NED University of Engineering & Technology (CGPA: 3.88, graduated 3rd in class)
+- **Chief of Naval Staff (CNS) Gold Medal**, 2017
+- **1st position, HSC (Pre-Engineering)** — 90.18%
 
 ---
 
 ## 📬 Let's Connect
 
-I'm always open to interesting data problems, collaborations, or conversations about analytics.
+Always open to interesting data problems, collaborations, or conversations about analytics.
 
-- **LinkedIn:** [Hanifa Elahi](https://linkedin.com/in/hanifa-elahi-98570a197/)  
-- **Kaggle:** [@hanifaelahi](https://kaggle.com/hanifaelahi)  
-- **HackerRank:** [@hanifa_elahi](https://www.hackerrank.com/hanifa_elahi)  
-
+- **LinkedIn:** [Hanifa Elahi](https://linkedin.com/in/hanifa-elahi-98570a197/)
+- **Kaggle:** [@hanifaelahi](https://kaggle.com/hanifaelahi)
+- **HackerRank:** [@hanifa_elahi](https://www.hackerrank.com/hanifa_elahi)
+- **Email:** hanifa.elahi@gmail.com
