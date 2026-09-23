@@ -50,6 +50,7 @@ I turn complex, messy datasets into clear decisions and measurable outcomes. My 
 Always open to interesting data problems, collaborations, or conversations about analytics.
 
 - **LinkedIn:** [Hanifa Elahi](https://linkedin.com/in/hanifa-elahi-98570a197/)
+- **Medium:** [@hanifa.elahi](https://medium.com/@hanifa.elahi)
 - **Kaggle:** [@hanifaelahi](https://kaggle.com/hanifaelahi)
 - **HackerRank:** [@hanifa_elahi](https://www.hackerrank.com/hanifa_elahi)
 - **Email:** hanifa.elahi@gmail.com
