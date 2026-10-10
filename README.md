@@ -12,7 +12,7 @@ I'm a **Senior Data Analyst with 4.5+ years of experience** across product analy
 
 I work with messy data to answer product and business questions, build reliable reporting, and uncover insights that help teams make better decisions. My work spans **data, product, and business**, from building data pipelines and dashboards to analyzing user behaviour, growth, and performance.
 
-📍 Karachi, Pakistan (UTC+5) | 📄 [**Resume**]()
+📍 Karachi, Pakistan (UTC+5) | 📄 [**Resume**](https://drive.google.com/file/d/18rQSjIQfLoR_7KUl-8mgOpcFmzF04qrO/view?usp=sharing)
 
 ---
 
