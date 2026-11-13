@@ -18,10 +18,10 @@ I work across data, product, and business, from building reliable data pipelines
 
 ## 🚀 What I Do
 
-* **Product & Growth Analytics** — retention, funnels, cohorts, A/B tests, lead scoring, and attribution
-* **Financial Modelling** — financial and operating models, KPI design, board and investor reporting
-* **Data Engineering** — dbt, Medallion architecture, Spark and Iceberg ETL, Kafka pipelines
-* **AI in Analytics** — AI-assisted coding with Claude Code, text classification, prompt engineering
+* **Product & Growth Analytics** — user behaviour, retention, funnels, cohorts, lead scoring, and attribution
+* **Financial Modelling** — financial and operating models, KPI design, revenue analysis, and board reporting
+* **Analytics Engineering** — dbt, Medallion architecture, Spark and Iceberg ETL, and Kafka pipelines
+* **AI in Analytics** — AI-assisted development, text classification, and workflow automation
 
 ---
 
@@ -49,7 +49,9 @@ I work across data, product, and business, from building reliable data pipelines
 
 ## 🎓 Education
 
-**B.E. Software Engineering** — NED University of Engineering & Technology (CGPA: 3.88, 3rd in batch)
+**B.E. in Software Engineering**  - NED University of Engineering & Technology
+
+🏅 **CGPA: 3.88/4.00** | **3rd Position in Batch**
 
 ---
 
