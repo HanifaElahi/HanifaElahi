@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Senior Data Analyst with 4.5+ years of experience** across product analytics, business intelligence, and data engineering — currently working at **Maqsad**, an ed-tech product.
+I'm a **Senior Data Analyst with 4.5+ years of experience** across product analytics, financial modelling, and data engineering — currently working at **Maqsad**, an ed-tech startup.
 
-I work with messy data to answer product and business questions, build reliable reporting, and uncover insights that help teams make better decisions. My work spans **data, product, and business**, from building data pipelines and dashboards to analysing user behaviour, growth, and performance.
+I work with messy data to answer product and business questions, build reliable reporting, and uncover insights that help teams make better decisions. My work spans **data, product, and business**, from building data pipelines and financial models to analysing user behaviour, growth, and performance.
 
 📍 Karachi, Pakistan (UTC+5) | 🌐 [**Portfolio**](https://hanifaelahi.github.io) | 📄 [**Resume**](https://drive.google.com/file/d/18rQSjIQfLoR_7KUl-8mgOpcFmzF04qrO/view?usp=sharing)
 
@@ -18,12 +18,10 @@ I work with messy data to answer product and business questions, build reliable 
 
 ## 🚀 What I Do
 
-* **Product & User Analytics** — retention, funnels, cohorts, and user behaviour
-* **Data Engineering & Workflow** — dbt, Medallion Architecture, Spark ETL, and Python automation
-* **Dashboarding & Reporting** — interactive dashboards and self-serve reporting for business teams
-* **SQL & Data Optimisation** — writing and optimising queries and building reliable transformation layers
-* **Growth & Marketing Analytics** — campaign performance, ROI tracking, and channel diagnostics
-* **Cross-Team Collaboration** — work with Product, Marketing, and Leadership to turn data into actionable insights
+* **Product & Growth Analytics** — retention, funnels, cohorts, A/B tests, lead scoring, and attribution
+* **Financial Modelling** — financial and operating models, KPI design, board and investor reporting
+* **Data Engineering** — dbt, Medallion architecture, Spark and Iceberg ETL, Kafka pipelines
+* **AI in Analytics** — AI-assisted coding with Claude Code, text classification, prompt engineering
 
 ---
 
@@ -33,25 +31,25 @@ I work with messy data to answer product and business questions, build reliable 
 * **[Predicting Buyers from App Behaviour](https://github.com/HanifaElahi/predicting-buyers-from-app-behaviour)** — Comparing users who paid with similar users who didn't to find which app behaviours actually signal buying, then turning those signals into five tiers and a weekly call list.
 * **[Cloud Cost Forecasting](https://github.com/HanifaElahi/cloud-cost-forecasting)** — A case study on forecasting cloud infrastructure costs as the business scales, based on how infrastructure costs actually behave rather than assuming they grow directly with demand.
 
-📂 Full write-ups with charts: [**hanifaelahi.github.io**](https://hanifaelahi.github.io/#work)
+📂 Summaries with charts: [**hanifaelahi.github.io**](https://hanifaelahi.github.io/#work)
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category                  | Tools & Technologies                                                |
-| ------------------------- | ------------------------------------------------------------------- |
-| **Languages & DBs**       | `Python` · `R` · `SQL` (`MySQL`, `PostgreSQL`, `Trino`, `BigQuery`) |
-| **BI & Visualisation**    | `Power BI` · `Apache Superset` · `Looker Studio`                    |
-| **Data Engineering**      | `dbt` · `Apache Spark` · `Mage AI` · `Apache Kafka`                 |
-| **Marketing & Analytics** | `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads`         |
-| **Workflow & Others**     | `Git` · `Jupyter` · `Selenium` · `Firebase` · `Notion` · `Excel`    |
+| Category                  | Tools & Technologies                                                   |
+| ------------------------- | ---------------------------------------------------------------------- |
+| **Languages & DBs**       | `Python` · `R` · `SQL` (`MySQL`, `PostgreSQL`, `Trino`, `BigQuery`)    |
+| **BI & Visualisation**    | `Power BI` · `Apache Superset` · `Looker Studio`                       |
+| **Data Engineering**      | `dbt` · `Apache Spark` · `Apache Iceberg` · `Mage AI` · `Apache Kafka` |
+| **Marketing & Analytics** | `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads`            |
+| **AI & Workflow**         | `Claude Code` · `OpenAI API` · `Git` · `Jupyter` · `Excel`             |
 
 ---
 
 ## 🎓 Education
 
-**B.E. Software Engineering** — NED University of Engineering & Technology (CGPA: 3.88)
+**B.E. Software Engineering** — NED University of Engineering & Technology (CGPA: 3.88, 3rd in batch)
 
 ---
 
