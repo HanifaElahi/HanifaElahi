@@ -2,7 +2,7 @@
 
 # Hi, I'm Hanifa Elahi 👋
 
-**Senior Data Analyst | Product Analytics, Business Intelligence & Analytics Engineering**
+**Senior Data Analyst | Product Analytics, Financial Modelling & Analytics Engineering**
 
 ---
 
@@ -27,7 +27,7 @@ I work across data, product, and business, from building reliable data pipelines
 
 ## 🔍 Case Studies
 
-* **[Lead Classification from Sales Chats](https://github.com/HanifaElahi/leads-tagging-framework)** — A rule-based classifier that categorized hundreds of sales chats daily by buying intent, helping agents prioritize follow-ups. High-intent leads represented roughly 25% of qualified leads but contributed around 60% of their sales.
+* **[Lead Classification from Sales Chats](https://github.com/HanifaElahi/leads-tagging-framework)** — A rule-based classifier that categorised hundreds of sales chats daily by buying intent, helping agents prioritise follow-ups. High-intent leads represented roughly 25% of qualified leads but contributed around 60% of their sales.
 * **[Predicting Buyers from App Behaviour](https://github.com/HanifaElahi/predicting-buyers-from-app-behaviour)** — Analysing behavioural differences between paying and non-paying users to identify purchase signals, segment users into five intent tiers, and generate actionable weekly call lists.
 * **[Cloud Cost Forecasting](https://github.com/HanifaElahi/cloud-cost-forecasting)** — A case study on forecasting cloud infrastructure costs as the business scales, based on how infrastructure costs actually behave rather than assuming they grow directly with demand.
 
@@ -63,5 +63,3 @@ I work across data, product, and business, from building reliable data pipelines
 * **Kaggle:** [@hanifaelahi](https://kaggle.com/hanifaelahi)
 * **HackerRank:** [@hanifa_elahi](https://www.hackerrank.com/hanifa_elahi)
 * **Email:** [hanifa.elahi@gmail.com](mailto:hanifa.elahi@gmail.com)
-
-I enjoy solving complex analytical problems, building reliable data systems, and connecting data insights to business decisions.
