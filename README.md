@@ -1,10 +1,8 @@
 [![Hanifa Elahi - Data & Analytics Professional](https://github.com/HanifaElahi/HanifaElahi/raw/main/profile_banner.png)](https://github.com/HanifaElahi/HanifaElahi/blob/main/profile_banner.png)
 
-# Hi, I'm Hanifa Elahi 👋
+<h1 align="center">Hi, I'm Hanifa Elahi 👋</h1>
 
-**Senior Data Analyst | Product Analytics, Financial Modelling & Analytics Engineering**
-
----
+<p align="center"><strong>Senior Data Analyst | Product Analytics, Financial Modelling & Analytics Engineering</strong></p>
 
 ## 👩‍💻 About Me
 
@@ -14,16 +12,12 @@ I work across data, product, and business, from building reliable data pipelines
 
 📍 Karachi, Pakistan (UTC+5) | 🌐 [**Portfolio**](https://hanifaelahi.github.io) | 📄 [**Resume**](https://drive.google.com/file/d/18rQSjIQfLoR_7KUl-8mgOpcFmzF04qrO/view?usp=sharing)
 
----
-
 ## 🚀 What I Do
 
 * **Product & Growth Analytics** — user behaviour, retention, funnels, cohorts, lead scoring, and attribution
 * **Financial Modelling** — financial and operating models, KPI design, revenue analysis, and board reporting
 * **Analytics Engineering** — dbt, Medallion architecture, Spark and Iceberg ETL, and Kafka pipelines
 * **AI in Analytics** — AI-assisted development, text classification, and workflow automation
-
----
 
 ## 🔍 Case Studies
 
@@ -32,8 +26,6 @@ I work across data, product, and business, from building reliable data pipelines
 * **[Cloud Cost Forecasting](https://github.com/HanifaElahi/cloud-cost-forecasting)** — A case study on forecasting cloud infrastructure costs as the business scales, based on how infrastructure costs actually behave rather than assuming they grow directly with demand.
 
 📂 Summaries with charts: [**hanifaelahi.github.io**](https://hanifaelahi.github.io/#work)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -45,15 +37,11 @@ I work across data, product, and business, from building reliable data pipelines
 | **Marketing & Analytics** | `Google Analytics` · `Mixpanel` · `Meta Ads` · `Google Ads`            |
 | **AI & Workflow**         | `Claude Code` · `OpenAI API` · `Git` · `Jupyter` · `Excel`             |
 
----
-
 ## 🎓 Education
 
 **B.E. in Software Engineering**  - NED University of Engineering & Technology
 
 🏅 **CGPA: 3.88/4.00** | **3rd Position in Batch**
-
----
 
 ## 📬 Let's Connect
 
