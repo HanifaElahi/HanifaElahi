@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Hanifa Elahi 👋</h1>
 
-<p align="center"><strong>Data Analystics, Product Analytics, Financial Modelling & Analytics Engineering</strong></p>
+<p align="center"><strong>Senior Data Analyst | Product Analytics, Financial Modelling & Analytics Engineering</strong></p>
 
 ## 👩‍💻 About Me
 
@@ -39,7 +39,7 @@ I work across data, product, and business, from building reliable data pipelines
 
 ## 🎓 Education
 
-**B.E. in Software Engineering**  - NED University of Engineering & Technology
+**B.E. in Software Engineering** — NED University of Engineering & Technology
 
 🏅 **CGPA: 3.88/4.00** | **3rd Position in Batch**
 
